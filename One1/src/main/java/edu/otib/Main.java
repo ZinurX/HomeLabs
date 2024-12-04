@@ -12,6 +12,7 @@ public class Main {
         for (int i = 1; i <= 5; i++) {
             String name;
             int id;
+            int count=0;
             System.out.println("i = " + i);
         }
     }

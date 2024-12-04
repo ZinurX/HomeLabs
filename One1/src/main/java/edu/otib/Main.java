@@ -13,7 +13,8 @@ public class Main {
             String name;
             int id;
             int count=0;
-            System.out.println("i = " + i);
+            String model="one";
+            System.out.println("i = " + i + model);
         }
     }
 }
